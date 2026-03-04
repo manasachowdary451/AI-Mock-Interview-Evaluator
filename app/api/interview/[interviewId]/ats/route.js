@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 // app/api/interview/[interviewId]/ats/route.js
 import { NextResponse } from "next/server";
 // Drizzle imports
